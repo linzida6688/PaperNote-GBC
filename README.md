@@ -1,4 +1,4 @@
-@[TOC](读文章笔记-GBC)
+# 读文章笔记-GBC
 # 背景
 - Computer Science > Machine Learning上的一篇文章，发表于2022年1月。重庆邮电大学计算机学院院长王国胤等教授，带领学生发表的论文。
 
